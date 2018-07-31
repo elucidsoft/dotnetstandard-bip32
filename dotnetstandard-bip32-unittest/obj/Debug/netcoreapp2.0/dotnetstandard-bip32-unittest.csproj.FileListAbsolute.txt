@@ -1,0 +1,17 @@
+C:\Users\ericm\Documents\GitHub\dotnetstandard-bip32\dotnetstandard-bip32-unittest\obj\Debug\netcoreapp2.0\dotnetstandard-bip32-unittest.csprojAssemblyReference.cache
+C:\Users\ericm\Documents\GitHub\dotnetstandard-bip32\dotnetstandard-bip32-unittest\obj\Debug\netcoreapp2.0\dotnetstandard-bip32-unittest.csproj.CoreCompileInputs.cache
+C:\Users\ericm\Documents\GitHub\dotnetstandard-bip32\dotnetstandard-bip32-unittest\obj\Debug\netcoreapp2.0\dotnetstandard-bip32-unittest.AssemblyInfoInputs.cache
+C:\Users\ericm\Documents\GitHub\dotnetstandard-bip32\dotnetstandard-bip32-unittest\obj\Debug\netcoreapp2.0\dotnetstandard-bip32-unittest.AssemblyInfo.cs
+C:\Users\ericm\Documents\GitHub\dotnetstandard-bip32\dotnetstandard-bip32-unittest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ericm\Documents\GitHub\dotnetstandard-bip32\dotnetstandard-bip32-unittest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ericm\Documents\GitHub\dotnetstandard-bip32\dotnetstandard-bip32-unittest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ericm\Documents\GitHub\dotnetstandard-bip32\dotnetstandard-bip32-unittest\bin\Debug\netcoreapp2.0\dotnetstandard-bip32-unittest.deps.json
+C:\Users\ericm\Documents\GitHub\dotnetstandard-bip32\dotnetstandard-bip32-unittest\bin\Debug\netcoreapp2.0\dotnetstandard-bip32-unittest.runtimeconfig.json
+C:\Users\ericm\Documents\GitHub\dotnetstandard-bip32\dotnetstandard-bip32-unittest\bin\Debug\netcoreapp2.0\dotnetstandard-bip32-unittest.runtimeconfig.dev.json
+C:\Users\ericm\Documents\GitHub\dotnetstandard-bip32\dotnetstandard-bip32-unittest\bin\Debug\netcoreapp2.0\dotnetstandard-bip32-unittest.dll
+C:\Users\ericm\Documents\GitHub\dotnetstandard-bip32\dotnetstandard-bip32-unittest\bin\Debug\netcoreapp2.0\dotnetstandard-bip32-unittest.pdb
+C:\Users\ericm\Documents\GitHub\dotnetstandard-bip32\dotnetstandard-bip32-unittest\bin\Debug\netcoreapp2.0\dotnetstandard-bip32.dll
+C:\Users\ericm\Documents\GitHub\dotnetstandard-bip32\dotnetstandard-bip32-unittest\bin\Debug\netcoreapp2.0\dotnetstandard-bip32.pdb
+C:\Users\ericm\Documents\GitHub\dotnetstandard-bip32\dotnetstandard-bip32-unittest\obj\Debug\netcoreapp2.0\dotnetstandard-bip32-unittest.csproj.CopyComplete
+C:\Users\ericm\Documents\GitHub\dotnetstandard-bip32\dotnetstandard-bip32-unittest\obj\Debug\netcoreapp2.0\dotnetstandard-bip32-unittest.dll
+C:\Users\ericm\Documents\GitHub\dotnetstandard-bip32\dotnetstandard-bip32-unittest\obj\Debug\netcoreapp2.0\dotnetstandard-bip32-unittest.pdb

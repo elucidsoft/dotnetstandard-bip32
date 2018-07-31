@@ -1,0 +1,59 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "C:\\Users\\ericm\\Documents\\GitHub\\dotnetstandard-bip32\\dotnetstandard-bip32-unittest\\dotnetstandard-bip32-unittest.csproj",
+    "projectName": "dotnetstandard-bip32-unittest",
+    "projectPath": "C:\\Users\\ericm\\Documents\\GitHub\\dotnetstandard-bip32\\dotnetstandard-bip32-unittest\\dotnetstandard-bip32-unittest.csproj",
+    "outputPath": "C:\\Users\\ericm\\Documents\\GitHub\\dotnetstandard-bip32\\dotnetstandard-bip32-unittest\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "C:\\Users\\ericm\\Documents\\GitHub\\dotnetstandard-bip32\\dotnetstandard-bip32\\dotnetstandard-bip32.csproj": {
+            "projectPath": "C:\\Users\\ericm\\Documents\\GitHub\\dotnetstandard-bip32\\dotnetstandard-bip32\\dotnetstandard-bip32.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "MSTest.TestAdapter": {
+          "target": "Package",
+          "version": "[1.2.1, )"
+        },
+        "MSTest.TestFramework": {
+          "target": "Package",
+          "version": "[1.2.1, )"
+        },
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.7.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}
