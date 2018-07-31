@@ -17,12 +17,10 @@ namespace dotnetstandard_bip32
 
         public (byte[] Key, byte[] ChainCode) GetMasterKeyFromSeed(string seed)
         {
-
             using (HMACSHA512 hmacSha512 = new HMACSHA512(Encoding.UTF8.GetBytes(curve)))
             {
                 var i = hmacSha512.ComputeHash(seed.HexToByteArray());
 
-                var test = i.ToStringHex();
                 var il = i.Slice(0, 32);
                 var ir = i.Slice(32);
 

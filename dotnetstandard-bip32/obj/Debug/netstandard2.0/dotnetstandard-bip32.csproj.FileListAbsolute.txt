@@ -1,9 +1,0 @@
-C:\Users\ericm\Documents\GitHub\dotnetstandard-bip32\dotnetstandard-bip32\bin\Debug\netstandard2.0\dotnetstandard-bip32.deps.json
-C:\Users\ericm\Documents\GitHub\dotnetstandard-bip32\dotnetstandard-bip32\bin\Debug\netstandard2.0\dotnetstandard-bip32.dll
-C:\Users\ericm\Documents\GitHub\dotnetstandard-bip32\dotnetstandard-bip32\bin\Debug\netstandard2.0\dotnetstandard-bip32.pdb
-C:\Users\ericm\Documents\GitHub\dotnetstandard-bip32\dotnetstandard-bip32\obj\Debug\netstandard2.0\dotnetstandard-bip32.csprojAssemblyReference.cache
-C:\Users\ericm\Documents\GitHub\dotnetstandard-bip32\dotnetstandard-bip32\obj\Debug\netstandard2.0\dotnetstandard-bip32.csproj.CoreCompileInputs.cache
-C:\Users\ericm\Documents\GitHub\dotnetstandard-bip32\dotnetstandard-bip32\obj\Debug\netstandard2.0\dotnetstandard-bip32.AssemblyInfoInputs.cache
-C:\Users\ericm\Documents\GitHub\dotnetstandard-bip32\dotnetstandard-bip32\obj\Debug\netstandard2.0\dotnetstandard-bip32.AssemblyInfo.cs
-C:\Users\ericm\Documents\GitHub\dotnetstandard-bip32\dotnetstandard-bip32\obj\Debug\netstandard2.0\dotnetstandard-bip32.dll
-C:\Users\ericm\Documents\GitHub\dotnetstandard-bip32\dotnetstandard-bip32\obj\Debug\netstandard2.0\dotnetstandard-bip32.pdb
