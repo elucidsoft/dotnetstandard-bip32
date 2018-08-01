@@ -1,0 +1,51 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+    <metadata>
+        <!-- The identifier that must be unique within the hosting gallery -->
+        <id>dotnetstandard-bip32</id>
+
+        <!-- The package version number that is used when resolving dependencies -->
+        <version>1.0.0</version>
+
+        <!-- Authors contain text that appears directly on the gallery -->
+        <authors>Eric Malamisura</authors>
+
+        <!-- 
+            Owners are typically nuget.org identities that allow gallery
+            users to easily find other packages by the same owners.  
+        -->
+        <owners>elucidsoft</owners>
+
+         <!-- License and project URLs provide links for the gallery -->
+        <licenseUrl>https://github.com/elucidsoft/dotnetstandard-bip32/blob/master/LICENSE</licenseUrl>
+        <projectUrl>https://github.com/elucidsoft/dotnetstandard-bip32</projectUrl>
+
+        <!-- The icon is used in Visual Studio's package manager UI -->
+        <iconUrl>http://github.com/contoso/UsefulStuff/nuget_icon.png</iconUrl>
+
+        <!-- 
+            If true, this value prompts the user to accept the license when
+            installing the package. 
+        -->
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+
+        <!-- Any details about this particular release -->
+        <releaseNotes>
+		- Initial Release v1.0.0
+	</releaseNotes>
+
+        <!-- 
+            The description can be used in package manager UI. Note that the
+            nuget.org gallery uses information you add in the portal. 
+        -->
+        <description>SLIP-0010 describes how to derive private and public key pairs for curve types different from secp256k1. This implementation supports ed25519.</description>
+
+        <!-- Copyright information -->
+        <copyright>elucidsoft 2017</copyright>
+
+        <!-- Tags appear in the gallery and can be used for tag searches -->
+        <tags>'.NET Core' 'Stellar' 'BIP32' 'Mnemonic' 'Horizon' 'Blockchain' 'ed25519' 'SLIP-0010' 'Crypto' 'Distributed Ledger'</tags>
+
+    </metadata>
+
+</package>
