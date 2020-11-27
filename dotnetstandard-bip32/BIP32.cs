@@ -62,6 +62,18 @@ namespace dotnetstandard_bip32
             return buffer.ToArray();
         }
 
+        public byte[] GetExpandedPrivateKey(byte[] privateKey)
+        {
+            Ed25519.KeyPairFromSeed(out _, out var expandedPrivateKey, privateKey);
+
+            var zero = new byte[] { 0 };
+
+            var buffer = new BigEndianBuffer();
+
+            buffer.Write(expandedPrivateKey);
+            return buffer.ToArray();
+        }
+
         private bool IsValidPath(string path)
         {
             var regex = new Regex("^m(\\/[0-9]+')+$");
