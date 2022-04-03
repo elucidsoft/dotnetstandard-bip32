@@ -19,27 +19,25 @@ namespace dotnetstandard_bip32_unittest
 
         private (byte[] Key, byte[] ChainCode) TestMasterKeyFromSeed(string seed)
         {
-            BIP32 bip32 = new BIP32();
+            var masterKeyFromSeed = new ExtKey(seed);
 
-            var masterKeyFromSeed = bip32.GetMasterKeyFromSeed(seed);
-
-            return (masterKeyFromSeed.Key, masterKeyFromSeed.ChainCode);
+            return (masterKeyFromSeed.Key.PrivateKey, masterKeyFromSeed.ChainCode);
         }
 
         private (byte[] Key, byte[] ChainCode) TestDerivePath(string path, string seed)
         {
-            BIP32 bip32 = new BIP32();
+            ExtKey extKey = new ExtKey(seed);
 
-            var derivePath = bip32.DerivePath(path, seed);
+            var derivePath = extKey.DerivePath(path);
 
-            return (derivePath.Key, derivePath.ChainCode);
+            return (derivePath.Key.PrivateKey, derivePath.ChainCode);
         }
 
         private byte[] TestGetPublicKey(byte[] privateKey)
         {
-            BIP32 bip32 = new BIP32();
+            Key key = new Key(privateKey);
 
-            var publicKey = bip32.GetPublicKey(privateKey);
+            var publicKey = key.PublicKey;
 
             return publicKey;
         }
